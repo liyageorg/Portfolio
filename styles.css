@@ -259,6 +259,8 @@ header.sticky{
     margin-bottom: 2rem;
 }
 
+
+
 /*  */
 
     .gallery {
@@ -550,6 +552,11 @@ textarea{
     transform: scale(1.1);
     cursor: pointer;
 }
+    h1 {
+        text-align: left;
+        margin: 0;
+        padding: 0;
+    }
 
 .footer{
     padding: 20px 15%;

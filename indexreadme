@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="page-title">Yasir Ghaffar - Web Development Portfolio</title>
+    <title id="page-title">Liya George - Web Development Portfolio</title>
 
     <link rel="icon" type="image/x-icon" href="/images/professional-portfolio.png">
 
@@ -30,6 +30,7 @@
     <header>
         <a href="" class="logo"><span>P</span>ort<span>f</span>olio<span>.</span> </a>
         <ul class="navlist">
+            <li><a href="signup.html">Sign Up</a></li>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
             <li><a href="#services">Services</a></li>

@@ -213,7 +213,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam accusamus laboriosam culpa error, 
                 molestite!</p>
             <div class="list">
-                <li> <span><i class='bx bxs-envelope' ></i></span> <a href=""> yasirghaffar.nust@gmail.com</a></li>
+                <li> <span><i class='bx bxs-envelope' ></i></span> <a href=""> liyageorge009@gmail.com</a></li>
                 <!-- <li><a href=""></a></li>
                 <li><a href=""></a></li> -->
             </div>        
@@ -241,7 +241,7 @@
 
     <footer class="footer" id="footer">
         <div class="last-text">
-            <p>Copyright <span><i class='bx bxs-copyright' ></i></span> 2023 by Yasir All Rights Reserved</p>
+            <p>Copyright <span><i class='bx bxs-copyright' ></i></span> 2024 by Liya George All Rights Reserved</p>
         </div>
         <div class="top">
             <a href="#home"><span><i class='bx bxs-up-arrow-alt' ></i></span></a>
@@ -282,7 +282,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="page-title">Yasir Ghaffar - Web Development Portfolio</title>
+    <title id="page-title">Liya George - Web Development Portfolio</title>
 
     <link rel="icon" type="image/x-icon" href="/images/favicon.png">
 
@@ -318,7 +318,7 @@
                 <span class="one">Hello</span>
                 <span class="two">I'm</span>
             </div>
-            <h1>Yasir Ghaffar</h1>
+            <h1>Liya George</h1>
             <h3>A Web&nbsp;<span>Developer!</span></h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus fuga nostrum reprehenderit fugit iste quos quibusdam, mollitia minus culpa impedit eveniet est a aliquid eos quia, repellendus architecto dignissimos ratione?</p>
             <div class="button">
